@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://USERNAME.github.io/amar-tech/sitemap.xml
+Sitemap: https://amarhuda1.github.io/sitemap.xml
